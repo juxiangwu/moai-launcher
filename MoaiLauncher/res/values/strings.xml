@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MoaiLauncher</string>
+    <string name="label_launcher">Moai Launcher</string>
+    <string name="label_select">Please choose a project:</string>
+    <string name="label_project_name">Project:%1$s</string>
+    <string name="label_project_author">Author:%1$s</string>
+    <string name="label_project_version">Version:%1$s</string>
+
+</resources>
